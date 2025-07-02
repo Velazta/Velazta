@@ -11,8 +11,6 @@ Just do what You want and then go lazy as fff
 ---
 ![](https://github-contributor-stats.vercel.app/api?username=Velazta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Velazta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
